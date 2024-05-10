@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+tiktoken
+langchain-pinecone 
+openai 
+langchain-openai
+langchainhub
+ipykernel
+pandas
+langchain-groq
