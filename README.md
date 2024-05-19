@@ -4,7 +4,7 @@
 <img alt="Screen Shot 2024-01-05 at 9 05 56 AM" src="https://github.com/benitomartin/Agentic-RAG-Langchain-Pinecone/assets/116911431/5341fd83-8f18-4698-9382-e2734828f308", width=500>
 </p>
 
-This repository contains a full Q&A pipeline using LangChain framework, Pinecone as vector database and Tavily as Agent. The data used are the transcriptions of TEDx Talks. A short description of how Tokenizers and Embeddings work is included.
+This repository contains a full Q&A pipeline using LangChain framework, Pinecone as vector database and Tavily as Agent. The data used are the transcriptions of TEDx Talks. A short description of how Tokenizers and Embeddings work is included. Use this **[Link](https://nbviewer.org/github/benitomartin/agentic-rag-langchain-pinecone/blob/main/RAG_Langchain_Agents.ipynb)** if the notebook cannot be opened.
 
 The main steps taken to build the RAG pipeline can be summarize as follows:
 
